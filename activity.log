@@ -3,3 +3,4 @@
 [2023-04-17T16:09:11] Correct logging output format
 [2023-04-17T09:49:44] Fix failing test in logging
 [2023-04-24T08:20:24] Bump batch inference dependencies
+[2023-04-26T14:21:47] Reorganize request validator structure
