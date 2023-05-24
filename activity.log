@@ -7,3 +7,4 @@
 [2023-04-26T08:40:26] Patch error handler validation bug
 [2023-04-28T18:10:24] Enhance inference endpoint accuracy
 [2023-05-10T16:01:13] Add unit tests for health check
+[2023-05-24T08:33:27] Bump model pipeline dependencies
