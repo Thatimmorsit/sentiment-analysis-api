@@ -8,3 +8,4 @@
 [2023-04-28T18:10:24] Enhance inference endpoint accuracy
 [2023-05-10T16:01:13] Add unit tests for health check
 [2023-05-24T08:33:27] Bump model pipeline dependencies
+[2023-05-30T18:28:32] Fix edge case in error handler
