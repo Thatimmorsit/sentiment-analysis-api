@@ -11,3 +11,4 @@
 [2023-05-30T18:28:32] Fix edge case in error handler
 [2023-05-30T13:39:43] Fix edge case in inference endpoint
 [2023-05-30T18:04:20] Patch error handler validation bug
+[2023-05-31T16:03:52] Bump model pipeline dependencies
