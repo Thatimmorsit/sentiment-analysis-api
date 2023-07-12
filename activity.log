@@ -25,3 +25,4 @@
 [2023-07-03T12:57:28] Patch response schema validation bug
 [2023-07-05T13:46:38] Add inline comments to model pipeline
 [2023-07-12T13:48:31] Add docstrings to auth middleware
+[2023-07-12T09:58:05] Resolve issue with response schema
