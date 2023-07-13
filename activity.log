@@ -26,3 +26,4 @@
 [2023-07-05T13:46:38] Add inline comments to model pipeline
 [2023-07-12T13:48:31] Add docstrings to auth middleware
 [2023-07-12T09:58:05] Resolve issue with response schema
+[2023-07-13T13:59:45] Update README with inference endpoint docs
