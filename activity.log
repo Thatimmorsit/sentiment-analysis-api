@@ -27,3 +27,4 @@
 [2023-07-12T13:48:31] Add docstrings to auth middleware
 [2023-07-12T09:58:05] Resolve issue with response schema
 [2023-07-13T13:59:45] Update README with inference endpoint docs
+[2023-07-27T18:25:59] Refactor request validator for clarity
