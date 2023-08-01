@@ -30,3 +30,4 @@
 [2023-07-27T18:25:59] Refactor request validator for clarity
 [2023-07-27T08:25:42] Fix logging memory leak
 [2023-08-01T18:15:10] Create health check handler
+[2023-08-01T13:57:39] Improve inference endpoint performance
