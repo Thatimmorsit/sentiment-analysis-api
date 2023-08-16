@@ -35,3 +35,4 @@
 [2023-08-01T13:09:00] Fix edge case in response schema
 [2023-08-11T14:07:29] Increase test coverage for error handler
 [2023-08-16T11:43:03] Add unit tests for response schema
+[2023-08-16T12:16:56] Add support for request validator
