@@ -36,3 +36,4 @@
 [2023-08-11T14:07:29] Increase test coverage for error handler
 [2023-08-16T11:43:03] Add unit tests for response schema
 [2023-08-16T12:16:56] Add support for request validator
+[2023-08-16T15:33:32] Add inference endpoint module
