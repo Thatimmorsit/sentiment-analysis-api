@@ -39,3 +39,4 @@
 [2023-08-16T15:33:32] Add inference endpoint module
 [2023-08-22T14:32:56] Fix failing test in auth middleware
 [2023-08-24T16:06:36] Implement request validator functionality
+[2023-08-28T18:31:07] Remove deprecated response schema method
