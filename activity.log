@@ -41,3 +41,4 @@
 [2023-08-24T16:06:36] Implement request validator functionality
 [2023-08-28T18:31:07] Remove deprecated response schema method
 [2023-08-28T14:47:18] Correct inference endpoint output format
+[2023-08-30T10:17:13] Introduce request validator component
