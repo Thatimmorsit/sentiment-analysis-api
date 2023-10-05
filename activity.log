@@ -50,3 +50,4 @@
 [2023-09-13T10:41:42] Introduce model pipeline component
 [2023-09-15T15:20:50] Introduce response schema component
 [2023-09-15T08:23:03] Update request validator logic
+[2023-10-05T17:19:55] Add unit tests for health check
