@@ -52,3 +52,4 @@
 [2023-09-15T08:23:03] Update request validator logic
 [2023-10-05T17:19:55] Add unit tests for health check
 [2023-10-06T19:18:15] Increase test coverage for auth middleware
+[2023-10-06T18:28:56] Add batch inference module
