@@ -55,3 +55,4 @@
 [2023-10-06T18:28:56] Add batch inference module
 [2023-10-06T11:58:48] Clean up batch inference code
 [2023-10-06T08:15:39] Fix edge case in rate limiter
+[2023-10-11T11:33:06] Add docstrings to logging
