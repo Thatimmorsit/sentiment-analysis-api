@@ -60,3 +60,4 @@
 [2023-10-17T08:19:29] Enhance auth middleware accuracy
 [2023-10-17T13:02:30] Bump inference endpoint dependencies
 [2023-10-17T16:23:19] Fix rate limiter memory leak
+[2023-10-23T13:22:06] Resolve issue with batch inference
