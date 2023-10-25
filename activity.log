@@ -61,3 +61,4 @@
 [2023-10-17T13:02:30] Bump inference endpoint dependencies
 [2023-10-17T16:23:19] Fix rate limiter memory leak
 [2023-10-23T13:22:06] Resolve issue with batch inference
+[2023-10-25T10:09:43] Add support for request validator
