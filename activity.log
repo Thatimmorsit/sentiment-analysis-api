@@ -64,3 +64,4 @@
 [2023-10-25T10:09:43] Add support for request validator
 [2023-10-25T13:39:24] Add unit tests for response schema
 [2023-10-25T19:19:44] Remove deprecated batch inference method
+[2023-10-27T10:21:50] Fix edge case in error handler
