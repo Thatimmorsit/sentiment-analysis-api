@@ -69,3 +69,4 @@
 [2023-10-30T15:16:11] Document request validator parameters
 [2023-11-07T15:03:10] Create auth middleware handler
 [2023-11-07T08:48:21] Add inline comments to model pipeline
+[2023-11-08T13:52:18] Introduce inference endpoint component
