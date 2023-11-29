@@ -75,3 +75,4 @@
 [2023-11-22T18:40:34] Optimize batch inference pipeline
 [2023-11-23T08:30:24] Introduce response schema component
 [2023-11-29T12:49:59] Correct auth middleware output format
+[2023-11-29T18:14:45] Bump auth middleware dependencies
