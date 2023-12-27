@@ -84,3 +84,4 @@
 [2023-12-15T08:29:38] Bump request validator dependencies
 [2023-12-15T14:36:10] Update README with auth middleware docs
 [2023-12-19T13:27:53] Reorganize batch inference structure
+[2023-12-27T18:01:13] Remove deprecated error handler method
