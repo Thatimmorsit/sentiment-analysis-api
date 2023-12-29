@@ -86,3 +86,4 @@
 [2023-12-19T13:27:53] Reorganize batch inference structure
 [2023-12-27T18:01:13] Remove deprecated error handler method
 [2023-12-29T15:31:23] Add model pipeline module
+[2023-12-29T13:53:43] Refactor response schema for clarity
