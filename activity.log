@@ -87,3 +87,4 @@
 [2023-12-27T18:01:13] Remove deprecated error handler method
 [2023-12-29T15:31:23] Add model pipeline module
 [2023-12-29T13:53:43] Refactor response schema for clarity
+[2024-01-02T16:48:54] Clean up error handler code
