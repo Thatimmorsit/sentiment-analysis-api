@@ -94,3 +94,4 @@
 [2024-01-11T10:32:55] Enhance inference endpoint accuracy
 [2024-01-11T17:08:49] Patch model pipeline validation bug
 [2024-01-11T19:05:56] Document logging parameters
+[2024-01-17T16:12:54] Update request validator logic
