@@ -96,3 +96,4 @@
 [2024-01-11T19:05:56] Document logging parameters
 [2024-01-17T16:12:54] Update request validator logic
 [2024-01-17T10:46:48] Fix failing test in error handler
+[2024-01-26T17:10:24] Add docstrings to rate limiter
