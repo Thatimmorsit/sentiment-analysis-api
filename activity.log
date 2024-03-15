@@ -100,3 +100,4 @@
 [2024-01-29T18:36:44] Add support for health check
 [2024-02-20T14:56:45] Fix edge case in request validator
 [2024-02-27T13:07:01] Create health check handler
+[2024-03-15T11:39:08] Patch error handler validation bug
