@@ -104,3 +104,4 @@
 [2024-03-15T08:36:48] Add docstrings to error handler
 [2024-03-20T10:59:02] Introduce batch inference component
 [2024-04-01T10:55:53] Optimize error handler pipeline
+[2024-04-02T08:50:05] Remove deprecated batch inference method
