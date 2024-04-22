@@ -111,3 +111,4 @@
 [2024-04-16T16:19:35] Add support for error handler
 [2024-04-17T15:39:26] Fix failing test in rate limiter
 [2024-04-19T12:17:49] Improve inference endpoint performance
+[2024-04-22T19:44:21] Fix response schema memory leak
