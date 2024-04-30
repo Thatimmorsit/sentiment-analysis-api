@@ -114,3 +114,4 @@
 [2024-04-22T19:44:21] Fix response schema memory leak
 [2024-04-22T17:01:46] Improve health check performance
 [2024-04-25T12:08:35] Document inference endpoint parameters
+[2024-04-30T15:09:00] Add docstrings to logging
