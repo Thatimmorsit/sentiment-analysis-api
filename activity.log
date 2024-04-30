@@ -117,3 +117,4 @@
 [2024-04-30T15:09:00] Add docstrings to logging
 [2024-04-30T16:53:20] Add auth middleware module
 [2024-04-30T19:46:45] Reorganize model pipeline structure
+[2024-04-30T09:10:17] Refactor batch inference for clarity
