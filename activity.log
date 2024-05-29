@@ -121,3 +121,4 @@
 [2024-05-01T11:55:48] Resolve issue with health check
 [2024-05-06T15:18:05] Improve rate limiter performance
 [2024-05-15T19:17:02] Add inline comments to inference endpoint
+[2024-05-29T11:23:53] Add docstrings to health check
