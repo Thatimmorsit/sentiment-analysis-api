@@ -123,3 +123,4 @@
 [2024-05-15T19:17:02] Add inline comments to inference endpoint
 [2024-05-29T11:23:53] Add docstrings to health check
 [2024-05-31T18:33:17] Fix failing test in response schema
+[2024-05-31T08:39:19] Add inline comments to auth middleware
