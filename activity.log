@@ -126,3 +126,4 @@
 [2024-05-31T08:39:19] Add inline comments to auth middleware
 [2024-05-31T14:02:54] Refactor request validator for clarity
 [2024-06-06T10:55:28] Introduce request validator component
+[2024-06-12T11:32:04] Bump batch inference dependencies
