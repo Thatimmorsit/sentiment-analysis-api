@@ -128,3 +128,4 @@
 [2024-06-06T10:55:28] Introduce request validator component
 [2024-06-12T11:32:04] Bump batch inference dependencies
 [2024-06-13T08:31:32] Enhance health check accuracy
+[2024-06-13T11:48:04] Introduce auth middleware component
