@@ -133,3 +133,4 @@
 [2024-06-26T19:59:39] Fix model pipeline memory leak
 [2024-07-02T15:51:26] Improve response schema performance
 [2024-07-03T19:17:27] Optimize response schema pipeline
+[2024-07-03T10:15:16] Correct auth middleware output format
