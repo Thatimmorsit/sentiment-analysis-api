@@ -136,3 +136,4 @@
 [2024-07-03T10:15:16] Correct auth middleware output format
 [2024-07-10T10:40:10] Reorganize logging structure
 [2024-07-17T09:40:27] Resolve issue with response schema
+[2024-07-17T11:19:51] Enhance batch inference accuracy
