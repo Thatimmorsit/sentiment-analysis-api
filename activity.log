@@ -137,3 +137,4 @@
 [2024-07-10T10:40:10] Reorganize logging structure
 [2024-07-17T09:40:27] Resolve issue with response schema
 [2024-07-17T11:19:51] Enhance batch inference accuracy
+[2024-07-18T17:07:08] Patch batch inference validation bug
