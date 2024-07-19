@@ -4,3 +4,6 @@
 
 ## 2024-03-05
 - Add input validation and 400 error handling
+
+## 2024-07-19
+- Add /health endpoint for monitoring
