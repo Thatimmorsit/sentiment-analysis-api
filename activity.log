@@ -143,3 +143,4 @@
 [2024-08-07T12:39:58] Add unit tests for inference endpoint
 [2024-08-08T11:55:17] Enhance health check accuracy
 [2024-08-09T16:13:48] Create auth middleware handler
+[2024-08-14T08:57:06] Increase test coverage for health check
