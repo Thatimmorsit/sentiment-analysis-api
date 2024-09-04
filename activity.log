@@ -152,3 +152,4 @@
 [2024-08-30T13:46:11] Add unit tests for error handler
 [2024-08-30T12:13:41] Fix edge case in logging
 [2024-09-04T19:30:38] Create model pipeline handler
+[2024-09-04T15:52:52] Patch inference endpoint validation bug
