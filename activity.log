@@ -153,3 +153,4 @@
 [2024-08-30T12:13:41] Fix edge case in logging
 [2024-09-04T19:30:38] Create model pipeline handler
 [2024-09-04T15:52:52] Patch inference endpoint validation bug
+[2024-09-10T16:45:24] Clean up batch inference code
