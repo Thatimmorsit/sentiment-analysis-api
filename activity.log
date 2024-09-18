@@ -157,3 +157,4 @@
 [2024-09-10T17:13:34] Update batch inference logic
 [2024-09-10T11:38:56] Update batch inference logic
 [2024-09-10T13:56:29] Introduce inference endpoint component
+[2024-09-18T15:15:09] Clean up request validator code
