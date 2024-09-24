@@ -163,3 +163,4 @@
 [2024-09-24T19:39:43] Add health check module
 [2024-09-24T11:51:55] Remove deprecated model pipeline method
 [2024-09-24T19:33:47] Update request validator logic
+[2024-09-24T19:27:51] Fix failing test in batch inference
