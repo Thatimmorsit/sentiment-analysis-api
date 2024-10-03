@@ -169,3 +169,4 @@
 [2024-09-25T08:59:01] Refactor error handler for clarity
 [2024-10-01T18:36:01] Add support for response schema
 [2024-10-03T16:52:06] Refactor inference endpoint for clarity
+[2024-10-03T13:35:47] Add support for inference endpoint
