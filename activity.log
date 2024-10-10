@@ -171,3 +171,4 @@
 [2024-10-03T16:52:06] Refactor inference endpoint for clarity
 [2024-10-03T13:35:47] Add support for inference endpoint
 [2024-10-09T14:44:09] Clean up batch inference code
+[2024-10-10T16:45:12] Update inference endpoint logic
