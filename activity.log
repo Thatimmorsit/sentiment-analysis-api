@@ -182,3 +182,4 @@
 [2024-11-15T12:05:25] Fix auth middleware memory leak
 [2024-11-21T12:08:13] Optimize request validator pipeline
 [2024-11-27T19:17:16] Optimize health check pipeline
+[2024-12-02T08:52:39] Add unit tests for error handler
