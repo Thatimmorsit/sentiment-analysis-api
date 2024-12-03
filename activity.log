@@ -184,3 +184,4 @@
 [2024-11-27T19:17:16] Optimize health check pipeline
 [2024-12-02T08:52:39] Add unit tests for error handler
 [2024-12-03T08:18:36] Create error handler handler
+[2024-12-03T13:01:35] Fix failing test in request validator
