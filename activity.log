@@ -191,3 +191,4 @@
 [2024-12-11T09:03:45] Introduce health check component
 [2024-12-11T13:47:25] Patch model pipeline validation bug
 [2024-12-19T09:06:45] Add unit tests for auth middleware
+[2024-12-19T11:26:49] Update README with logging docs
