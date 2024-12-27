@@ -193,3 +193,4 @@
 [2024-12-19T09:06:45] Add unit tests for auth middleware
 [2024-12-19T11:26:49] Update README with logging docs
 [2024-12-24T19:03:49] Fix failing test in response schema
+[2024-12-26T19:52:29] Add docstrings to inference endpoint
