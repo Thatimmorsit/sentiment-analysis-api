@@ -195,3 +195,4 @@
 [2024-12-24T19:03:49] Fix failing test in response schema
 [2024-12-26T19:52:29] Add docstrings to inference endpoint
 [2024-12-26T14:37:13] Reorganize auth middleware structure
+[2024-12-30T19:11:20] Clean up response schema code
