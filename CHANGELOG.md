@@ -7,3 +7,6 @@
 
 ## 2024-07-19
 - Add /health endpoint for monitoring
+
+## 2025-01-08
+- Refactor response schema to use Pydantic v2
