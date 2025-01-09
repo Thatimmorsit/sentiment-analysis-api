@@ -199,3 +199,4 @@
 [2024-12-31T12:58:30] Resolve issue with request validator
 [2025-01-06T15:50:50] Bump error handler dependencies
 [2025-01-06T09:39:59] Add response schema module
+[2025-01-09T14:53:51] Improve error handler performance
