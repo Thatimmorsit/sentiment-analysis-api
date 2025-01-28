@@ -211,3 +211,4 @@
 [2025-01-24T19:31:42] Bump model pipeline dependencies
 [2025-01-28T08:34:21] Document error handler parameters
 [2025-01-28T16:34:48] Add unit tests for response schema
+[2025-01-28T09:19:55] Fix response schema memory leak
