@@ -214,3 +214,4 @@
 [2025-01-28T09:19:55] Fix response schema memory leak
 [2025-01-28T13:26:22] Fix edge case in batch inference
 [2025-02-05T12:42:41] Create logging handler
+[2025-02-10T18:05:28] Increase test coverage for auth middleware
