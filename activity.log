@@ -226,3 +226,4 @@
 [2025-04-08T13:45:50] Add unit tests for response schema
 [2025-04-09T18:02:30] Bump auth middleware dependencies
 [2025-04-09T11:29:44] Fix auth middleware memory leak
+[2025-04-09T18:58:58] Fix edge case in error handler
