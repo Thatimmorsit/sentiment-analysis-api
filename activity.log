@@ -229,3 +229,4 @@
 [2025-04-09T18:58:58] Fix edge case in error handler
 [2025-04-14T08:24:58] Document batch inference parameters
 [2025-04-18T14:22:18] Create model pipeline handler
+[2025-04-18T12:40:37] Update README with auth middleware docs
