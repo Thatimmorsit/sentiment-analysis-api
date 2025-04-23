@@ -233,3 +233,4 @@
 [2025-04-21T12:13:27] Add docstrings to batch inference
 [2025-04-22T15:25:03] Implement model pipeline functionality
 [2025-04-22T10:57:41] Fix failing test in model pipeline
+[2025-04-23T16:41:56] Update README with rate limiter docs
