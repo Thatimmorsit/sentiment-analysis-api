@@ -236,3 +236,4 @@
 [2025-04-23T16:41:56] Update README with rate limiter docs
 [2025-04-28T11:37:27] Remove deprecated health check method
 [2025-04-29T14:01:59] Bump auth middleware dependencies
+[2025-04-30T09:56:19] Document inference endpoint parameters
