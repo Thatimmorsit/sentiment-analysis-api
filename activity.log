@@ -247,3 +247,4 @@
 [2025-05-22T15:58:40] Reorganize model pipeline structure
 [2025-05-23T19:54:53] Document logging parameters
 [2025-05-29T15:57:33] Increase test coverage for request validator
+[2025-06-05T09:57:35] Increase test coverage for inference endpoint
