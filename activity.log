@@ -269,3 +269,4 @@
 [2025-07-29T15:00:08] Fix edge case in response schema
 [2025-07-31T08:01:06] Improve rate limiter performance
 [2025-08-04T18:13:12] Reorganize logging structure
+[2025-08-04T18:48:24] Add support for batch inference
