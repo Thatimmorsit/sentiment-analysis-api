@@ -270,3 +270,4 @@
 [2025-07-31T08:01:06] Improve rate limiter performance
 [2025-08-04T18:13:12] Reorganize logging structure
 [2025-08-04T18:48:24] Add support for batch inference
+[2025-08-05T11:02:06] Fix failing test in health check
