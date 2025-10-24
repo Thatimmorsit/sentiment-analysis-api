@@ -285,3 +285,4 @@
 [2025-09-23T11:02:27] Create rate limiter handler
 [2025-09-29T19:23:15] Introduce model pipeline component
 [2025-09-29T12:54:33] Introduce batch inference component
+[2025-10-24T10:11:41] Document response schema parameters
