@@ -295,3 +295,4 @@
 [2025-11-12T09:09:46] Update README with error handler docs
 [2025-11-12T12:14:29] Refactor batch inference for clarity
 [2025-11-12T14:17:53] Fix failing test in model pipeline
+[2025-11-12T08:25:59] Introduce error handler component
