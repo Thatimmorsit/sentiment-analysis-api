@@ -292,3 +292,4 @@
 [2025-11-04T10:04:33] Resolve issue with rate limiter
 [2025-11-05T16:44:08] Enhance auth middleware accuracy
 [2025-11-06T13:17:29] Remove deprecated auth middleware method
+[2025-11-12T09:09:46] Update README with error handler docs
