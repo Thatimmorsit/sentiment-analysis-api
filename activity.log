@@ -303,3 +303,4 @@
 [2025-12-16T09:43:28] Fix rate limiter memory leak
 [2025-12-16T16:56:54] Fix auth middleware memory leak
 [2025-12-16T16:07:28] Fix failing test in batch inference
+[2025-12-18T10:50:50] Update README with error handler docs
