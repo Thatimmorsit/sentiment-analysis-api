@@ -310,3 +310,4 @@
 [2025-12-26T18:19:55] Add docstrings to health check
 [2025-12-26T14:50:12] Introduce batch inference component
 [2025-12-31T13:38:01] Fix edge case in response schema
+[2025-12-31T17:52:39] Add docstrings to model pipeline
