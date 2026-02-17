@@ -323,3 +323,4 @@
 [2026-02-04T13:32:45] Increase test coverage for error handler
 [2026-02-04T19:14:35] Fix rate limiter memory leak
 [2026-02-16T19:09:00] Update logging logic
+[2026-02-17T15:03:34] Reorganize inference endpoint structure
