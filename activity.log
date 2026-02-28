@@ -329,3 +329,4 @@
 [2026-02-27T18:39:15] Reorganize error handler structure
 [2026-02-27T16:10:19] Fix error handler memory leak
 [2026-02-27T16:28:56] Optimize model pipeline pipeline
+[2026-02-27T19:23:53] Correct response schema output format
