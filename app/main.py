@@ -31,3 +31,15 @@ class SentimentResponse(BaseModel):
 def analyze(request: SentimentRequest):
     """Analyzes the sentiment of a given text."""
     return analyze_sentiment(request.text)
+
+class BatchSentimentRequest(BaseModel):
+    texts: list[str]
+
+class BatchSentimentResponse(BaseModel):
+    results: list[SentimentResponse]
+
+@app.post("/analyze/batch", response_model=BatchSentimentResponse)
+def analyze_batch(request: BatchSentimentRequest):
+    """Analyzes the sentiment of a batch of texts in a single request."""
+    results = [analyze_sentiment(text) for text in request.texts]
+    return BatchSentimentResponse(results=results)
